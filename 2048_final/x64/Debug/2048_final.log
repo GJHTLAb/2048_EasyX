@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\13329\Desktop\2048_final\2048_final\block.h(62,16): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\13329\Desktop\2048_final\2048_final\block.h(62,34): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\13329\Desktop\2048_final\2048_final\gamebox.h(14,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\13329\Desktop\2048_final\2048_final\rankbox.h(30,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\13329\Desktop\2048_final\2048_final\rankbox.h(60,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\13329\Desktop\2048_final\2048_final\rankbox.h(68,68): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  2048_final.vcxproj -> C:\Users\13329\Desktop\2048_final\x64\Debug\2048_final.exe

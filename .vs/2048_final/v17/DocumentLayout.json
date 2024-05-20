@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\13329\\Desktop\\2048_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\gamebox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\gamebox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\gaming_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\gaming_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\account_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\account_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\textbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\textbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\rankbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\rankbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\timebox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\timebox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scorebox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\scorebox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\ranklist_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\ranklist_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\login_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\login_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\menu_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\menu_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scene_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\scene_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\register_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\register_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\inform_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\inform_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\tipsbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\tipsbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B2AF61-7B11-4426-9AED-80CC8DC52DEA}|2048_final\\2048_final.vcxproj|solutionrelative:2048_final\\timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gamebox.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\gamebox.h",
+              "RelativeDocumentMoniker": "2048_final\\gamebox.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\gamebox.h",
+              "RelativeToolTip": "2048_final\\gamebox.h",
+              "ViewState": "AQIAAFABAAAAAAAAAAAAACkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T12:26:18.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scene.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scene.h",
+              "RelativeDocumentMoniker": "2048_final\\scene.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scene.h",
+              "RelativeToolTip": "2048_final\\scene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T08:37:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "button.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\button.h",
+              "RelativeDocumentMoniker": "2048_final\\button.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\button.h",
+              "RelativeToolTip": "2048_final\\button.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T09:21:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "block.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\block.h",
+              "RelativeDocumentMoniker": "2048_final\\block.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\block.h",
+              "RelativeToolTip": "2048_final\\block.h",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T12:26:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\main.cpp",
+              "RelativeDocumentMoniker": "2048_final\\main.cpp",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\main.cpp",
+              "RelativeToolTip": "2048_final\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T08:15:19.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "account.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\account.h",
+              "RelativeDocumentMoniker": "2048_final\\account.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\account.h",
+              "RelativeToolTip": "2048_final\\account.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T13:09:58.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\util.h",
+              "RelativeDocumentMoniker": "2048_final\\util.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\util.h",
+              "RelativeToolTip": "2048_final\\util.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T13:42:31.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "account_manager.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\account_manager.h",
+              "RelativeDocumentMoniker": "2048_final\\account_manager.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\account_manager.h",
+              "RelativeToolTip": "2048_final\\account_manager.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAACkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T07:07:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gaming_scene.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\gaming_scene.h",
+              "RelativeDocumentMoniker": "2048_final\\gaming_scene.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\gaming_scene.h",
+              "RelativeToolTip": "2048_final\\gaming_scene.h",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAEwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T07:00:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "rankbox.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\rankbox.h",
+              "RelativeDocumentMoniker": "2048_final\\rankbox.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\rankbox.h",
+              "RelativeToolTip": "2048_final\\rankbox.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T06:16:55.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "textbox.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\textbox.h",
+              "RelativeDocumentMoniker": "2048_final\\textbox.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\textbox.h",
+              "RelativeToolTip": "2048_final\\textbox.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T11:01:10.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "timebox.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\timebox.h",
+              "RelativeDocumentMoniker": "2048_final\\timebox.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\timebox.h",
+              "RelativeToolTip": "2048_final\\timebox.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T05:43:20.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "resource.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\resource.h",
+              "RelativeDocumentMoniker": "2048_final\\resource.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\resource.h",
+              "RelativeToolTip": "2048_final\\resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T08:27:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "scorebox.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scorebox.h",
+              "RelativeDocumentMoniker": "2048_final\\scorebox.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scorebox.h",
+              "RelativeToolTip": "2048_final\\scorebox.h",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T04:48:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ranklist_scene.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\ranklist_scene.h",
+              "RelativeDocumentMoniker": "2048_final\\ranklist_scene.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\ranklist_scene.h",
+              "RelativeToolTip": "2048_final\\ranklist_scene.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T07:13:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "menu_scene.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\menu_scene.h",
+              "RelativeDocumentMoniker": "2048_final\\menu_scene.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\menu_scene.h",
+              "RelativeToolTip": "2048_final\\menu_scene.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T08:45:15.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "scene_manager.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scene_manager.h",
+              "RelativeDocumentMoniker": "2048_final\\scene_manager.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\scene_manager.h",
+              "RelativeToolTip": "2048_final\\scene_manager.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T06:00:37.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "register_scene.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\register_scene.h",
+              "RelativeDocumentMoniker": "2048_final\\register_scene.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\register_scene.h",
+              "RelativeToolTip": "2048_final\\register_scene.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T06:44:56.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login_scene.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\login_scene.h",
+              "RelativeDocumentMoniker": "2048_final\\login_scene.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\login_scene.h",
+              "RelativeToolTip": "2048_final\\login_scene.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T07:09:07.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "inform_scene.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\inform_scene.h",
+              "RelativeDocumentMoniker": "2048_final\\inform_scene.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\inform_scene.h",
+              "RelativeToolTip": "2048_final\\inform_scene.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T06:44:11.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "tipsbox.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\tipsbox.h",
+              "RelativeDocumentMoniker": "2048_final\\tipsbox.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\tipsbox.h",
+              "RelativeToolTip": "2048_final\\tipsbox.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T08:27:49.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "timer.h",
+              "DocumentMoniker": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\timer.h",
+              "RelativeDocumentMoniker": "2048_final\\timer.h",
+              "ToolTip": "C:\\Users\\13329\\Desktop\\2048_final\\2048_final\\timer.h",
+              "RelativeToolTip": "2048_final\\timer.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T15:11:45.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
